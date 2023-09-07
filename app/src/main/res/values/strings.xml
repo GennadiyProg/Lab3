@@ -4,4 +4,7 @@
     <string name="call_second_activity">Call second activity</string>
     <string name="second_activity">Second activity</string>
     <string name="go_to_first_activity">GO BACK</string>
+    <string name="editMessage"> </string>
+    <string name="third_activity">Third activity</string>
+    <string name="to_to_third_activity">Go ahead</string>
 </resources>

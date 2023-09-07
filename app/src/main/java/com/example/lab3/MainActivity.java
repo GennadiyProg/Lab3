@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         if (view.getId() == R.id.button) {
             Intent intent = new Intent(getApplicationContext(), ActivityTwo.class);
+            intent.putExtra("message", "We are here with the main activity");
             startActivity(intent);
         }
     }
