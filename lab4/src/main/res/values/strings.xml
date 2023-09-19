@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="accelerometer">Акселерометр</string>
+    <string name="accel_x"> </string>
+    <string name="accel_y"> </string>
+    <string name="accel_z"> </string>
+    <string name="magnetic">Магнитный сенсор</string>
+    <string name="magnetic_x"> </string>
+    <string name="magnetic_y"> </string>
+    <string name="magnetic_z"> </string>
+    <string name="proximity">Приближение</string>
+    <string name="proximity_val"> </string>
+    <string name="light">Освещенность</string>
+    <string name="light_val"> </string>
+</resources>
